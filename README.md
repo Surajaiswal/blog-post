@@ -2,11 +2,11 @@
 Django Framework
 
 ## Installation Requirement
-pip install django
-pip install django-crispy-forms
-pip install Pillow
-pip install requests
-pip install urllib3
+pip install django<br>
+pip install django-crispy-forms<br>
+pip install Pillow<br>
+pip install requests<br>
+pip install urllib3<br>
 
 ## Process To Run
 1) UnZip The Zip file
