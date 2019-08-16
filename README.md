@@ -1,4 +1,4 @@
-# blog-post
+# Blog Website
 Django Framework
 
 ## Installation Requirement
